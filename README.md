@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Semicile17
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning frontend web development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development and Android development
+- 🌱 I’m currently learning Android development
+
+
 
 <!---
 Semicile17/Semicile17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
