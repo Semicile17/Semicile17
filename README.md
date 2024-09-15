@@ -2,7 +2,7 @@
 ![RajniRoboGIF](https://github.com/Semicile17/Semicile17/assets/138305306/3824109a-0f4a-4549-835a-f078c28ea059)
 
 # 💫 About Me:
-I am a passionate Software Developer and a tech enthusiast . <br>Well experienced in MERN stack and have worked on the android platform .<br>I like spending my time coding and bringing great ideas to life .<br>When I'm not in front of my computer screen , I like to read and listen to music . 
+I experience . I imagine . I create .
 
 
 ## 🌐 Socials:
